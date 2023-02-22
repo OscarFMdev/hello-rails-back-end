@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<img src="./back-end.png" height="100" width="200">
+<img src="./back-end.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

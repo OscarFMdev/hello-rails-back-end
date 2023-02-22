@@ -27,7 +27,8 @@
 
 # 📖 hello-rails-backend <a name="about-project"></a>
 
-**hello-rails-backend** is an API built with Rails
+**hello-rails-backend** is an API built with Rails that sends data to the frontend:
+- [Front-end](https://github.com/OscarFMdev/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,8 +63,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 

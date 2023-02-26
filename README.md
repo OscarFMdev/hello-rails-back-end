@@ -199,9 +199,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank React for a good documentation of the product
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
